@@ -1,0 +1,48 @@
+.barrasopra{
+  height: 100px;
+  width: 40%;
+  display: flex;
+  justify-content:flex-start;
+  align-items: baseline;
+  float: left;
+}
+.barrasoprauno{
+  height:100px;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.barrasopra a {
+  color:black;
+  margin-top:auto;
+}
+.barrasopra p{
+color:grey;
+}
+.prova{
+  float:left;
+}
+.barrasoprauno p{
+  color:grey;
+}
+a:hover{
+  text-decoration: none;
+}
+p:hover{
+  color:black;
+}
+button{
+  color:white;
+  background-color:#eb008d;
+  height:40px;
+  width: 100px;
+  border-radius: 2rem;
+  border: none;
+}
+.provauno{
+  padding-left:10%;
+}
+button:hover{
+  background-color: rgb(210, 0, 126);
+}
